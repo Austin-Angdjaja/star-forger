@@ -7,7 +7,7 @@ Constalis, then, for that purpose is not a signal generator, a predictor, or som
 Markets do not move in absolutes. They move in regimes. This is the core behind Constalis. Raw levels and historical prices are meaningless without context:
 - Correlation reading is only alarming if it is extreme relative to itself.
 - Speculative drawdown only matters if it is abnormal for that specific environment.
-- Stress is subjective. Base "stress" levels differ between sectors and companies.
+- Stress is subjective and regime-dependent. Base "stress" levels differ between sectors and companies.
 
 Most people make the mistake of looking at numbers in isolation and derive hallucinated meaning. Constalis exists precisely to solve this issue. It is not enough to consider the base Star Forger index's reading and related correlation measures. We need to anchor these findings to the current day market regime, which is what Constalis intends to do.
 
@@ -40,13 +40,17 @@ Constalis adapts to current regimes without fully rewriting history or anchoring
    - Behavior is rare historically.
    - Regime conditions dominate outcomes.
    - Probability distributions distorted.
-   - Discretion dominates modeling.
+   - Discretion dominates modeling; probabilistic assumptions become unreliable.
 ## MEASUREMENTS
+- Constalis measurements are bounded between 0 and 1, where values reflect percentile positioning within the rolling regime window.
 - Constalis at 1.00 indicates elevated levels of greed, relative to recent activity.
 - Constalis at 0.00 indicates elevated levels of fear, relative to recent activity.
 - Constalis at 0.50 indicates neutrality.
 - Constalis plateauing at 1.00 for extended duration indicates maximum / euphoria levels of greed, relative to recent activity.
 - Constalis plateauing at 0.00 for extended duration indicates maximum / euphoria levels of fear, relative to recent activity.
 ## ADDITIONAL NOTES
+- Extended plateaus can persist longer than intution expects.
+- Regime compression can mask slow structural deterioration.
+- Constalis does not distinguish between constructive / valid enthusiasm and reckless leverage.
 - Prima, Constalis, and the base Star Forger index is to be used in tandem.
 - As always, Constalis is contextual; judgement is mandatory.
