@@ -16,7 +16,7 @@ In healthy markets, speculative assets are allowed to diverge:
 - Some narratives attract capital.
 - Some narratives break or fade.
 
-Capital is discriminates and selects for "the most promising story." In stressed markets, this very discrimination collapses. Narratives, roadmaps, and promises all zero out — become irrelevant. Speculative assets are treated less as speculative assets and as a single liability on the balance sheet. At this point, correlation spikes close to 1 not because these assets are related in some fundamental sense, but because capital behavior has aligned uniformly.
+Capital discriminates and selects for "the most promising story." In stressed markets, this very discrimination collapses. Narratives, roadmaps, and promises all zero out — become irrelevant. Speculative assets are treated less as speculative assets and as a single liability on the balance sheet. At this point, correlation spikes close to 1 not because these assets are related in some fundamental sense, but because capital behavior has aligned uniformly.
 
 Prima exists to observe this state transition.
 
@@ -47,19 +47,20 @@ Above is a snapshot of the complete Star Forger system, from Prima to Constalis.
    - Risk appetite is severely impaired.
    - Market is no longer funding / tolerating uncertainty.
 ## BEHAVIORAL CONTEXT
-- Rising correlation with flat prices is oftentimes an early indicator of regime change.
-- Rising correlation with rising prices confirms market risk appetite expanding.
+- Rising correlation with flat prices is often an early indicator of regime change.
+- Rising correlation with rising prices confirms broad-based (possibly late-cycle) market risk appetite deployment.
 - Rising correlation with falling prices confirms stress.
-- Falling correlation after a spike oftentimes signals stabilization; recovery is not guaranteed.
+- Falling correlation after a spike often signals stabilization; recovery is not guaranteed.
 
 Prima does not require a macro crisis to measure change in speculative behavior. Reduced tolerance for uncertainty, higher funding costs, or localized leverage unwinds are all sufficient inputs for the system.
 
 # ADDITIONAL NOTES
 1. Prima is intended to be behavioral, not statistical.
-2. Correlation spikes often occur before price drawdowns / rallies, not after.
+2. Correlation spikes often occur before price drawdowns / rallies, not after. Prima therefore, moves before price because behavior must change before price can clear.
 3. High correlation does not imply imminent crash. It simply implies constraint / alignment.
-4. Prima is not a timing tool.
-5. Prima is best interpreted alongside the base Star Forger index and Constalis:
+4. High correlation does not imply assets are fundamentally related — only that capital behavior has become uniform.
+5. Prima is not a timing tool.
+6. Prima is best interpreted alongside the base Star Forger index and Constalis:
    - Star Forger: Is speculation historically supported?
    - Prima: Is speculation being treated systemically?
    - Constalis: Where does recent behavior sit in context?
